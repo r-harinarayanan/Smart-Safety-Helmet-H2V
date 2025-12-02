@@ -57,11 +57,11 @@ This forms an H2V communication link.
 
 ### 5.1 Helmet Circuit
 
-![Helmet Circuit](hardware/circuit-diagrams/helmet-circuit.png)
+![Helmet Circuit](hardware/helmet-circuit.png)
 
 ### 5.2 Bike Circuit
 
-![Bike Circuit](hardware/circuit-diagrams/bike-circuit.png)
+![Bike Circuit](hardware/bike-circuit.png)
 
 ---
 

@@ -1,4 +1,3 @@
-
 # Smart Safety Helmet with H2V Communication and Ignition Control
 
 ## 1. Introduction
@@ -140,18 +139,21 @@ Therefore, these values **should not be treated as definitive engineering consta
 Smart-Safety-Helmet-H2V/
 │
 ├── code/
-│   ├── helmet-side/helmet.ino
-│   └── bike-side/bike.ino
+│   ├── bike-side/bike.ino
+│   └── helmet-side/helmet.ino
 │
 ├── hardware/
-│       ├── helmet-circuit.png
-│       └── bike-circuit.png
+│   ├── bike-circuit.png
+│   └── helmet-circuit.png
 │
 ├── media/
-│   ├── helmet-side-block.png
-│   └── bike-side-block.png
+│   ├── bike-side-block.png
+│   └── helmet-side-block.png
 │
+├── LICENSE
+├── .gitignore
 └── README.md
+
 ```
 
 ---

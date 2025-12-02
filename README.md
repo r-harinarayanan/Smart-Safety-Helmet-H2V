@@ -248,9 +248,3 @@ This project is released under the MIT License.
 R Hari Narayanan
 B.Tech Computer and Communication Engineering
 Amrita Vishwa Vidyapeetham
-
----
-POST
-RESUME
-ABSTRACT
-```
